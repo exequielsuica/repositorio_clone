@@ -2,4 +2,4 @@ primer commit
 
 
 
-segun commit desde el clone
+mi cambio desde el repositorio clone
